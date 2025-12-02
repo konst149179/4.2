@@ -1,0 +1,11 @@
+Москва|5000|NoDiscount|
+Санкт-Петербург|3000|PercentageDiscount|10
+Казань|2000|PercentageDiscount|5
+Омск|3200|NoDiscount|
+Тверь|7350|PercentageDiscount|13
+Пермь|8500|PercentageDiscount|75
+Ялта|4690|PercentageDiscount|2
+Амстердам|14850|PercentageDiscount|30
+Варшава|13000|NoDiscount|
+Новосибирск|12840|PercentageDiscount|22
+Екатеринбург|14550|NoDiscount|

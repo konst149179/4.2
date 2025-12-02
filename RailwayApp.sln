@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailwayApp", "RailwayApp.csproj", "{0F79AE6A-C581-4056-B847-7CE921DB0850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F79AE6A-C581-4056-B847-7CE921DB0850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F79AE6A-C581-4056-B847-7CE921DB0850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F79AE6A-C581-4056-B847-7CE921DB0850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F79AE6A-C581-4056-B847-7CE921DB0850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ACEABC0-0853-4B6D-8DE3-12FF39C5ED47}
+	EndGlobalSection
+EndGlobal
